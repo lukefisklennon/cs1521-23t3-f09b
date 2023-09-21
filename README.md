@@ -1,6 +1,6 @@
-## COMP1521 23T3 M17A
+## COMP1521 23T3 F09B
 
 Important links:
 
-- [Week 2-10 whiteboard](https://miro.com/app/board/uXjVMjq11bE=)
-- [Anonymous feedback form](https://forms.gle/n3qrZtnEicouQH829)
+- [Week 2-10 whiteboard](https://miro.com/app/board/uXjVMiv5gj8=)
+- [Anonymous feedback form](https://forms.gle/4DTJTyGdVENwr3yRA)
