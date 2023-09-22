@@ -8,10 +8,8 @@ int main(void) {
     scanf("%d", &n);
 
     int fac = 1;
-    int i = 1;
-    for (i <= n) {
+    for (int i = 1; i <= n; i++) {
         fac *= i;
-        i++;
     }
 
     printf("n! = %d\n", fac);
